@@ -1,8 +1,7 @@
 /*Library branch is connected to book loans via brand id
 publisher is connected to books via publisher name
 books is connected to book author, book copies, and book loans via book id
-borrower is connected to book loans via card number
-is it is in the book loans table it is out of the library*/
+borrower is connected to book loans via card number*/
 
 use db_zootest2
 
